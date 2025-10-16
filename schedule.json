@@ -44,11 +44,11 @@
         "date": "11/5/2025",
         "speakers": [
             {
-                "name": "Ru Lyu (Postdoc @ CMU)",
-                "link": "https://hcii.cmu.edu/people/qianru-lyu"
+                "name": "Luisa Wellert (Visiting PhD Student @ CMU)",
+                "link": "https://uni-tuebingen.de/en/research/centers-and-institutes/tuebingen-center-for-digital-education/team/luisa-wellert/"
             }
         ],
-        "topic": ""
+        "topic": "How to Scale Verbal Analysis in the Learning Sciences? Introducing the TPV Guideline for Developing LLM-Based Coding Tools"
     },
     {
         "date": "11/19/2025",
