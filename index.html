@@ -13,16 +13,16 @@
   <header class="site-header">
     <div class="header-inner">
       <!-- <img src="cmu.png" alt="Carnegie Mellon University" style="height:55px;"> -->
-      <h1>CMU Learning Science & Engineering Seminar</h1>
+      <h1>Learning With and About AI</h1>
       <p class="subtitle-small"></p>
     </div>
   </header>
   
   <main>
     <section class="intro">
-      <h2 class="section-title">About the CMU LSE Seminar Series</h2>
+      <h2 class="section-title">About the Seminar Series</h2>
       <p>
-        This seminar series, organized by <a href="https://metals.hcii.cmu.edu/" target="_blank" rel="noopener noreferrer">METALS</a>, aims to broaden our understanding of how technology can be leveraged to enhance learning and its impact on learners, instructors, and learning environments. There will be a talk every other Wednesday from 12:30-1:30 pm. 
+        This seminar series, organized by <a href="https://metals.hcii.cmu.edu/" target="_blank" rel="noopener noreferrer">METALS</a>, aims to broaden our understanding of how technology can be leveraged to enhance learning and its impact on learners, instructors, and learning environments. There will be a talk every Monday from 3:30-4:30 pm. 
 
       </p>
       <div class="involved-buttons">
@@ -33,28 +33,51 @@
     </section>
 
     <section class="schedule">
-      <h2 class="section-title">Fall 2025 Schedule</h2>
-  
-      <div class="schedule-table-container">
-        <table class="schedule-table" id="schedule-table">
-          <thead>
-            <tr>
-              <th scope="col">Date</th>
-              <th scope="col">Speaker</th>
-              <th scope="col">Talk Title</th>
-            </tr>
-          </thead>
-          <tbody>
-            <!-- Will be populated by JavaScript -->
-          </tbody>
-        </table>
+      <h2 class="section-title">Seminar Schedule</h2>
+    
+      <!-- Tabs -->
+      <div class="schedule-tabs">
+        <button class="tab-btn active" data-tab="spring-2026">Spring 2026</button>
+        <button class="tab-btn" data-tab="fall-2025">Fall 2025</button>
       </div>
-    </section>
+    
+      <!-- Spring 2026 -->
+      <div id="spring-2026" class="schedule-panel active">
+        <div class="schedule-table-container">
+          <table class="schedule-table" id="spring-2026-table">
+            <thead>
+              <tr>
+                <th>Date</th>
+                <th>Speaker</th>
+                <th>Talk Title</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    
+      <!-- Fall 2025 -->
+      <div id="fall-2025" class="schedule-panel">
+        <div class="schedule-table-container">
+          <table class="schedule-table" id="fall-2025-table">
+            <thead>
+              <tr>
+                <th>Date</th>
+                <th>Speaker</th>
+                <th>Talk Title</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    </section>    
     
   </main>
 
   <footer class="site-footer">
-    <p>&copy; 2025 CMU LSE Seminar | <a href="https://github.com/oaklab/learning_seminar" target="_blank">Source Repo</a></p>
+    <p>&copy; 2025 CMU LSE Seminar | <a href="https://github.com/the-oak-lab/lse-seminar" target="_blank">Source Repo</a></p>
     <p>Built with open-source code from the <a href="https://github.com/cmubiglab/lunch" target="_blank">CMU Accessibility Lunch Website</a> (MIT License)</p>
   </footer>
 

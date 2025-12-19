@@ -1,0 +1,134 @@
+[
+    {
+        "date": "1/12/2026",
+        "speakers": [
+            {
+                "name": "",
+                "link": ""
+            }
+        ],
+        "topic": "Introductions",
+        "topicSlides": ""
+    },
+    {
+        "date": "1/26/2026",
+        "speakers": [
+            {
+                "name": "Erik Harpstead (Systems Scientist, HCI)",
+                "link": "https://www.erikharpstead.net/"
+            }
+        ],
+        "topic": "",
+        "topicSlides": ""
+    },
+    {
+        "date": "2/2/2026",
+        "speakers": [
+            {
+                "name": "Ken Koedinger (Professor, HCII & Psych)",
+                "link": "https://pact.cs.cmu.edu/koedinger.html"
+            }
+        ],
+        "topic": ""
+    },
+    {
+        "date": "2/9/2026",
+        "speakers": [
+            {
+                "name": "TBD",
+                "link": ""
+            }
+        ],
+        "topic": ""
+    },
+    {
+        "date": "2/16/2026",
+        "speakers": [
+            {
+                "name": "Suguru Ishizaki (Professor, English)",
+                "link": "https://www.cmu.edu/dietrich/english/about-us/faculty/bios/suguru-ishizaki.html"
+            }
+        ],
+        "topic": ""
+    },
+    {
+        "date": "2/23/2026",
+        "speakers": [
+            {
+                "name": "TBD",
+                "link": ""
+            }
+        ],
+        "topic": ""
+    },
+    {
+        "date": "3/9/2026",
+        "speakers": [
+            {
+                "name": "Amy Ogan (Professor, HCII)",
+                "link": "https://www.amyogan.com/"
+            }
+        ],
+        "topic": ""
+    },
+    {
+        "date": "3/16/2026",
+        "speakers": [
+            {
+                "name": "Jessica Hammer (Professor, HCII)",
+                "link": "http://replayable.net/"
+            }
+        ],
+        "topic": ""
+    },
+    {
+        "date": "3/23/2026",
+        "speakers": [
+            {
+                "name": "TBD",
+                "link": ""
+            }
+        ],
+        "topic": ""
+    },
+    {
+        "date": "3/30/2026",
+        "speakers": [
+            {
+                "name": "Danielle Thomas (Systems Scientist, HCII)",
+                "link": "https://sites.google.com/view/danielle-r-thomas"
+            }
+        ],
+        "topic": ""
+    },
+    {
+        "date": "4/6/2026",
+        "speakers": [
+            {
+                "name": "TBD",
+                "link": ""
+            }
+        ],
+        "topic": ""
+    },
+    {
+        "date": "4/13/2026",
+        "speakers": [
+            {
+                "name": "TBD (Grad Students)",
+                "link": ""
+            }
+        ],
+        "topic": ""
+    },
+    {
+        "date": "4/20/2026",
+        "speakers": [
+            {
+                "name": "TBD (Grad Students)",
+                "link": ""
+            }
+        ],
+        "topic": ""
+    }
+]
