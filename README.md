@@ -1,21 +1,21 @@
-## CMU Learning Science & Engineering Seminar Website
+## "Learning With and About AI" Seminar Website
 
-This repository hosts the website for the **CMU LSE Seminar** series. The site is designed to be accessible, responsive, and easy to update.
+This repository hosts the website for the **CMU Learning Seminar** series. The site is designed to be accessible, responsive, and easy to update.
 
 **Live Site:** [https://the-oak-lab.github.io/learning-seminar](https://the-oak-lab.github.io/learning-seminar)
 
 ### About the Seminar
 
-The CMU LSE seminar series aims to broaden our understanding of how technology can be leveraged to enhance learning and its impact on learners, instructors, and learning environments. 
+The "Learning With and About AI" seminar series aims to broaden our understanding of how technology can be leveraged to enhance learning and its impact on learners, instructors, and learning environments. 
 
 ### How to Update the Schedule
 
-The weekly schedule is populated dynamically from a `schedule.json` file. To change the lineup, edit `schedule.json` and commit your changes.
+The weekly schedule is populated dynamically from a `schedule.json` file. To change the lineup, go into the `data` folder, find the schedule for the correct semester (e.g., `spring-2026.json`) and commit your changes.
 
 **Steps to Update the Schedule:**
 
 1. **Open `schedule.json`:**
-   Located in the root of the repository, `schedule.json` is a JSON file containing an array of session entries. Each entry looks like this:
+   Located in the `data` folder of the repository, there will be a JSON file for each semester containing an array of session entries. Each entry looks like this:
    ```json
    {
      "date": "3/12/2025",
@@ -45,7 +45,7 @@ The weekly schedule is populated dynamically from a `schedule.json` file. To cha
    - **topicSlides (optional):** Add a link to slides or related materials. If provided, the entire topic text becomes clickable. If omitted, the topic will be plain text.
    
 3. **Commit Your Changes:**
-   Once you’ve edited and saved `schedule.json`, commit and push your changes to the `main` branch. The website, hosted on GitHub Pages, will automatically update within minutes.
+   Once you’ve edited and saved the file, commit and push your changes to the `main` branch. The website, hosted on GitHub Pages, will automatically update within minutes.
 
 ### Running Locally
 
