@@ -1,16 +1,5 @@
 [
     {
-        "date": "1/12/2026",
-        "speakers": [
-            {
-                "name": "",
-                "link": ""
-            }
-        ],
-        "topic": "Introductions",
-        "topicSlides": ""
-    },
-    {
         "date": "1/26/2026",
         "speakers": [
             {
@@ -35,8 +24,8 @@
         "date": "2/9/2026",
         "speakers": [
             {
-                "name": "TBD",
-                "link": ""
+                "name": "John Stamper (Professor, HCII)",
+                "link": "https://dev.stamper.org/"
             }
         ],
         "topic": ""
