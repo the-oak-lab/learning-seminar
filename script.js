@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
+  loadSchedule("data/fall-2026.json", "fall-2026-table");
   loadSchedule("data/spring-2026.json", "spring-2026-table");
   loadSchedule("data/fall-2025.json", "fall-2025-table");
 
