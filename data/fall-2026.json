@@ -1,0 +1,63 @@
+[
+    {
+        "date": "9/21/2026",
+        "speakers": [
+            {
+                "name": "Randi Williams (Assistant Research Professor, HCI)",
+                "link": "https://randiwilliams.com/"
+            }
+        ],
+        "topic": "TBD",
+        "topicSlides": ""
+    },
+    {
+        "date": "9/28/2026",
+        "speakers": [
+            {
+                "name": "Dominic Kao (Assistant Professor, University of Illinois Urbana-Champaign)",
+                "link": "https://people.csail.mit.edu/dkao/"
+            }
+        ],
+        "topic": "TBD"
+    },
+    {
+        "date": "10/19/2026",
+        "speakers": [
+            {
+                "name": "John Zimmerman (Professor, HCII & School of Design)",
+                "link": "https://hcii.cmu.edu/people/john-zimmerman"
+            }
+        ],
+        "topic": "TBD"
+    },
+    {
+        "date": "11/2/2026",
+        "speakers": [
+            {
+                "name": "Shamya Karumbaiah (Assistant Professor, University of Wisconsin-Madison)",
+                "link": "https://shamya.github.io/"
+            }
+        ],
+        "topic": "TBD"
+    },
+    {
+        "date": "11/9/2026",
+        "speakers": [
+            {
+                "name": "Sherry Wu (Assistant Professor, HCII)",
+                "link": "https://www.cs.cmu.edu/~sherryw//"
+            }
+        ],
+        "topic": "TBD"
+    },
+    {
+        "date": "11/30/2026",
+        "speakers": [
+            {
+                "name": "Carolyn Rose (Professor, HCII & LTI)",
+                "link": "https://www.amyogan.com/"
+            }
+        ],
+        "topic": "TBD"
+    }
+]
